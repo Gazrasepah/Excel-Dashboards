@@ -7,6 +7,9 @@ This repository contains two interactive Excel dashboards that visualize and ana
 ## 📁 Repository Structure
 
 📦 Coffee-Shop-Sales-Dashboards/
+
 ├── Coffee Shop Sales.xlsx
+
 ├── coffeeOrdersProject.xlsx
+
 └── README.md
